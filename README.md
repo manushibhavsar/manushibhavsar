@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manushibhavsar
 - 👀 I’m interested in Front-end
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on some small projects
 - 📫 How to reach me ...
 
